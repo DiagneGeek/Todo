@@ -17,3 +17,6 @@ print(slice)
 
 split = str.split(" ")
 print(split)
+
+replace = str.replace("T", "L")
+print(replace)
